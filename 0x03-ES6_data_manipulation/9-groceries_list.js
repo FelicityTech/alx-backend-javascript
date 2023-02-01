@@ -6,4 +6,4 @@ export default function groceriesList() {
   result.set('Rice', 1);
   result.set('Banana', 5);
   return result;
-}	
+}
