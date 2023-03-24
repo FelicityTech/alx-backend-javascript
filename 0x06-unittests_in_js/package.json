@@ -4,8 +4,8 @@
     "description": "solutions to unittests in js exercises",
     "main": "index.js",
     "scripts": {
-        "test": "./node_modules/.bin/mocha"
-    },
+        "test": "mocha test/**/*.test.js"
+      },
     "author": "",
     "license": "ISC",
     "devDependencies": {
